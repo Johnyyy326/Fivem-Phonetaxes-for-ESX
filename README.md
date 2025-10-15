@@ -1,3 +1,6 @@
+Hey, this is an easy fivem esx Phonetaxes Script for support add me on dc : johnnyy12345
+
+
 -- Script made by Johnny 
 -- [htpps://klrp.de](http://klrp.de/)
 -- discord.gg/kroleplay
