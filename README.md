@@ -11,3 +11,5 @@ this script is simply made for phone taxes the bills cames every 5 hrs
 to edit when the taxes are comming open the server.lua then edit:
         Citizen.Wait(18000000)
 the 18000000 means 5 hrs just edit this an then your done
+
+<img width="262" height="100" alt="image" src="https://github.com/user-attachments/assets/7b55180c-23d4-4006-a62d-4e9e50d1df10" />
