@@ -1,7 +1,3 @@
--- Script made by Johnny 
--- [htpps://klrp.de](http://klrp.de/)
--- discord.gg/kroleplay
--- https://github.com/Johnyyy326
 
 
 fx_version 'cerulean'
@@ -20,7 +16,3 @@ server_scripts {
 }
 
 
--- Script made by Johnny 
--- [htpps://klrp.de](http://klrp.de/)
--- discord.gg/kroleplay
--- https://github.com/Johnyyy326
