@@ -1,7 +1,4 @@
--- Script made by Johnny 
--- [htpps://klrp.de](http://klrp.de/)
--- discord.gg/kroleplay
--- https://github.com/Johnyyy326
+
 
 
 
@@ -27,7 +24,3 @@ end
 
 
 
--- Script made by Johnny 
--- [htpps://klrp.de](http://klrp.de/)
--- discord.gg/kroleplay
--- https://github.com/Johnyyy326
