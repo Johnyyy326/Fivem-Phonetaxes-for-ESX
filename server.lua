@@ -1,7 +1,3 @@
--- Script made by Johnny 
--- [htpps://klrp.de](http://klrp.de/)
--- discord.gg/kroleplay
--- https://github.com/Johnyyy326
 
 
 ESX = exports["es_extended"]:getSharedObject()
@@ -25,8 +21,3 @@ Citizen.CreateThread(function()
     end
 end)
 
-
--- Script made by Johnny 
--- [htpps://klrp.de](http://klrp.de/)
--- discord.gg/kroleplay
--- https://github.com/Johnyyy326
